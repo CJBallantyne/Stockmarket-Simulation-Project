@@ -1,0 +1,5 @@
+﻿  Test.cpp
+d:\user file folders\onedrive\documents\mcmaster\year 1\2 - winter 2019\1pr3 - object oriented programming\group project\stock market simulation\project\company.h(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\user file folders\onedrive\documents\mcmaster\year 1\2 - winter 2019\1pr3 - object oriented programming\group project\stock market simulation\project\test.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\user file folders\onedrive\documents\mcmaster\year 1\2 - winter 2019\1pr3 - object oriented programming\group project\stock market simulation\project\test.cpp(634): warning C4018: '<': signed/unsigned mismatch
+  Project.vcxproj -> D:\User File Folders\OneDrive\Documents\McMaster\Year 1\2 - Winter 2019\1PR3 - Object Oriented Programming\Group Project\Stock Market Simulation\Debug\Project.exe

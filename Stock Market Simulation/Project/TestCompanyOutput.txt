@@ -1,0 +1,7 @@
+BackRub Inc;GGL;1500;50;0;~;
+Sound of Music;BST;750;22;0.1;~;
+Brad's Drink;PEP;800;15;0;~;
+AuctionWeb;EBY;1250;35;0.05;~;
+Firebird Inc;FOX;1400;45;0.15;~;
+Confinity;PPL;550;20;0;~;
+Research in Motion;RIM;500;10;0.2;~;
